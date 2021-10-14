@@ -1,0 +1,16 @@
+
+.container {
+    padding: 30px;
+    margin: 20px;
+    width: 150px;
+}
+
+.grey{
+    background-color: lightgray;
+    border: 2px solid grey;
+}
+
+.green{
+    background-color: lightgreen;
+    border: 2px solid limegreen;
+}
